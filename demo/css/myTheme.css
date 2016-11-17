@@ -57,9 +57,9 @@
 }
 
 .height400 {
-        height: 400px;
-        overflow-x: auto;
-        overflow-y: auto;
+    height: 400px;
+    overflow-x: auto;
+    overflow-y: auto;
 }
 
 .fancyTable td, .fancyTable th {
